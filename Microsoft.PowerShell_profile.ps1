@@ -176,7 +176,7 @@ function Get-SimpleFileName {
 
 Remove-Item 'Alias:\ls' -ErrorAction SilentlyContinue -Force;
 Set-Alias -Name "ls" -Value "Get-SimpleFileName";
-# New-Alias "hello" $PkgLoc"\hello.ps1";
+# New-Alias "hello world" $PkgLoc"\hello.ps1";
 
 # function to look through $PkgLoc and find all .ps1 files
 # and add them to the alias list for easy access
