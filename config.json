@@ -1,6 +1,6 @@
 {
-  "user": "YourNameHere",
-  "host": "YourPCNameHere",
-  "shellStyle": "fish",
-  "startdir": "YourPowershellDirHere"
+    "user": "YourUsername",
+    "host": "YourHostname",
+    "shellStyle": "fish",
+    "startdir": "YourPowershellDirHere"
 }
